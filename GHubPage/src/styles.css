@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 @import "~bootstrap/dist/css/bootstrap.css";
+@font-face {font-family: "Kamerik105W00-Bold"; src: url("//db.onlinewebfonts.com/t/15db490066f3892032387f14ef589970.eot"); src: url("//db.onlinewebfonts.com/t/15db490066f3892032387f14ef589970.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/15db490066f3892032387f14ef589970.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/15db490066f3892032387f14ef589970.woff") format("woff"), url("//db.onlinewebfonts.com/t/15db490066f3892032387f14ef589970.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/15db490066f3892032387f14ef589970.svg#Kamerik105W00-Bold") format("svg"); }
+
+*{
+  font-family: "Kamerik105W00-Bold",monospace;
+}
